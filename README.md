@@ -25,12 +25,12 @@ These are my notes from the Google Advanced Data Analytics Specialization. This 
 	10. RACI chart
 	11. Key components of communication
 	12. PACE framework for Big Data
-	13. Key concideration of crafting message
+	13. Key consideration of crafting message
 	14. Effective communication
-	15. Elements of a projects proposal
+	15. Elements of a project proposal
 	16. Course 1: end-of-course projects
 	17. Proposal Writing
 	18. PACE framework generation
 	
-- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9401.pdf)
+- [Note Link](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-1-Foundations%20of%20Data%20Science/hand-note/CourseNote.pdf)
  
