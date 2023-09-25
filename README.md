@@ -32,5 +32,7 @@ These are my notes from the Google Advanced Data Analytics Specialization. This 
 	17. Proposal Writing
 	18. PACE framework generation
 	
-- [Note Link](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-1-Foundations%20of%20Data%20Science/hand-note/CourseNote.pdf)
+- [Hand Note Link](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-1-Foundations%20of%20Data%20Science/hand-note/CourseNote.pdf)
+- [Glossary](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-1-Foundations%20of%20Data%20Science/resources/Course%201%20glossary.pdf)
+- [Course:1-report](https://github.com/AhmedDiderRahat/GADAS-2023/tree/main/Course-1-Foundations%20of%20Data%20Science/final-report)
  
