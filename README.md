@@ -12,7 +12,7 @@ These are my notes from the Google Advanced Data Analytics Specialization. This 
 
 ## Course 1: Foundations of Data Science
  
-- Skills Gains: 
+- **Skills Gains:** 
 	1. Explore data tools
 	2. Data driven carrer
 	3. Bias of the data
@@ -35,4 +35,33 @@ These are my notes from the Google Advanced Data Analytics Specialization. This 
 - [Hand Note Link](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-1-Foundations%20of%20Data%20Science/hand-note/CourseNote.pdf)
 - [Glossary](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-1-Foundations%20of%20Data%20Science/resources/Course%201%20glossary.pdf)
 - [Course:1-report](https://github.com/AhmedDiderRahat/GADAS-2023/tree/main/Course-1-Foundations%20of%20Data%20Science/final-report)
- 
+
+
+
+## Course 2: Get Started with Python
+
+- **Skills Gain:**
+	1. Python Introduction.
+ 	2. Comparison between programming languages.
+  	3. OOP Concepts.
+  	4. Naming Convention.
+  	5. Type conversion in Python.
+  	6. Function.
+  	7. Clean code concept.
+  	8. Branching and Looping.
+  	9. Python Data structure.
+  	10. Vectorization and numpy.
+
+- **Course 2 End-of-Course Project:**
+  	- Scenario: The TikTok data team wants to make an automatic claim classification system. To begin, the team needs to organize the raw dataset and prepare it for further Exploratory Data Analysis (EDA).
+  	- Project Structure:
+  	  	- [Complete Project Folder Link](https://github.com/AhmedDiderRahat/GADAS-2023/tree/main/Course-2-Get%20Started%20with%20Python/project)
+  	  	- [Complete Problem Statement](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-2-Get%20Started%20with%20Python/project/problem-statement/ps_1.pdf)
+  	  	- [Code of the Project](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-2-Get%20Started%20with%20Python/project/code/TikTok%20project%20lab.ipynb)
+  	  	- [PACE Documentation](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-2-Get%20Started%20with%20Python/project/report/PACE-documentation/PACE%20strategy%20document.pdf)
+  	  	- [Executive Summary](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-2-Get%20Started%20with%20Python/project/report/executive-summary/Executive%20summaries.pdf)
+
+- [Hand Note Link](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-2-Get%20Started%20with%20Python/hand-note/Course%E2%80%9402.pdf)
+- [Glossary](https://github.com/AhmedDiderRahat/GADAS-2023/blob/main/Course-2-Get%20Started%20with%20Python/resources/Course%202%20glossary.pdf)
+- [Python Script: Code provided by instructor](https://github.com/AhmedDiderRahat/GADAS-2023/tree/main/Course-2-Get%20Started%20with%20Python/python-script)
+- [Activity Script: Code solved by me](https://github.com/AhmedDiderRahat/GADAS-2023/tree/main/Course-2-Get%20Started%20with%20Python/activity-script)
